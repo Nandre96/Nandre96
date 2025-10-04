@@ -34,8 +34,7 @@
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 ---
-
-✨ ###### *Estoy comprometida con la calidad del código, la mejora continua y la creación de experiencias que faciliten la vida del usuario.*  
+###### ✨  Estoy comprometida con la calidad del código, la mejora continua y la creación de experiencias que faciliten la vida del usuario.
 ---
 
 
